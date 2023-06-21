@@ -39,8 +39,6 @@ I love to read books about personal growth, critical thinking, start-ups and a b
 
 In my free time, I Enjoy the gym and family.
 
-1. Contact me: [![Linkedin Badge](https://img.shields.io/badge/-affmde-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andre-miranda-3a768556/)
-
 
 ---
 
