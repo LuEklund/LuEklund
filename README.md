@@ -1,17 +1,18 @@
 # Hi there! 👋
 
+<div align="center">
 
 ---
 ###  About Me :
 
-- :man_technologist: I am currently studying Software development at Hive Helsinki, with a keen interest in hands-on experiences.
-- 🚀 I'm eager to delve into the realm of startups, particularly those associated with game development and mobile application."
+:man_technologist: I am currently studying Software development at Hive Helsinki, with a keen interest in hands-on experiences.
 
-- 📚 I love to read books about personal growth, critical thinking, start-ups and a bit of philosophy.
+🚀 I'm eager to delve into the realm of startups, particularly those associated with game development and mobile application."
 
-- ⌚ When I'm not working, I love going to the gym and spending time with my family.
-</div>
-<div align="center">
+📚 I love to read books about personal growth, critical thinking, start-ups and a bit of philosophy.
+
+⌚ When I'm not working, I love going to the gym and spending time with my family.
+
 
 ---
 
