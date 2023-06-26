@@ -11,7 +11,7 @@
 
 📚 I love to read books about personal growth, critical thinking, start-ups and a bit of philosophy.
 
-⌚ When I'm not working, I love going to the gym and spending time with my family.
+⌚ When I'm not working, I love going to the gym or spending time with my family.
 
 
 ---
