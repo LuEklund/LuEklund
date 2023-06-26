@@ -1,7 +1,46 @@
 # Hi there! 👋
 
+
+---
+###  About Me :
+
+- :man_technologist: I am currently studying Software development at Hive Helsinki, with a keen interest in hands-on experiences.
+- 🚀 I'm eager to delve into the realm of startups, particularly those associated with game development and mobile application."
+
+- 📚 I love to read books about personal growth, critical thinking, start-ups and a bit of philosophy.
+
+- ⌚ When I'm not working, I love going to the gym and spending time with my family.
+</div>
+<div align="center">
+
+---
+
+###  🖥️ Languages :
+
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+
+### :hammer_and_wrench: Tools :
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+
+---
+
+## 🌟Notable Projects🌟
+
+[Cub3D](https://github.com/jontssu/cub3D): Me and my friend created a replica of Wolf3D.
+
+---
+
+### 🔎 Find me here:
 <div id="header" align="center">
-<!-- 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 	<div id="badges">
 		<a href="https://www.linkedin.com/in/lucas-eklund/">
 			<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,38 +58,5 @@
 			<img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
 		</a>
 	</div>
-<!-- 	<img alt="stats" src="https://komarev.com/ghpvc/?username=LuEklund&style=flat-square&color=blue"/> -->
-<!-- 	<h1>
-		hey there
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-	</h1> -->
 </div>
----
-<div align="center">
-
-### :man_technologist: About Me :
-
-I am a Finnish-Swedish Software Developer
-
-I am currently studying Software development at Hive Helsinki my interest are hands on work I want to get my hands dirty in startup-code related with Game or mobile apps.
-
-I love to read books about personal growth, critical thinking, start-ups and a bit of philosophy.
-
-In my free time, I Enjoy the gym and family.
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-## Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/jontssu/cub3D): Me and my friend created a replica of Wolf3D.
-- ...
-
 Let's connect and collaborate!
