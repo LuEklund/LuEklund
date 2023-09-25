@@ -64,7 +64,7 @@
     <a href="https://www.facebook.com/people/Lucas-Eklund/pfbid02tjAze7gpba2k7zDSKBGe8woeQ63Td8CgJd8VZZGZSLLsc9K6FRGkofKSwwNzDYZYl/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
     </a>
-    <a href="https://lucas-profile.eu/">
+    <a href="https://lucas-profile.eu/" target="_blank">
       <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoColor=white" height="35"/>
     </a>
   </div>
