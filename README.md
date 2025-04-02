@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a student at Hive Helsinki</h2>
+<h2 align="left">Me Lucas</h2>
 
 ###
 
