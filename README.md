@@ -1,4 +1,4 @@
-<h2 align="left">Me Lucas</h2>
+<h2 align="left">Lucas</h2>
 
 ###
 
@@ -55,13 +55,7 @@
 ---
 ###  About Me :
 
-:man_technologist: I am currently studying Software development at Hive Helsinki, with a keen interest in hands-on experiences.
-
-🚀 I'm eager to delve into the realm of startups, particularly those associated with game development and mobile application.
-
-📚 I love to read books about personal growth, critical thinking, start-ups and philosophy.
-
-⌚ When I'm not working, I love going to the gym or spending time with my family.
+I do stuff
 
 
 ---
