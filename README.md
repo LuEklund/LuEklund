@@ -1,66 +1,66 @@
-<h2 align="left">Lucas</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 
-###
+# 👨Lucas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuEklund&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuEklund&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<details>
+  <summary>📖 More about me</summary>
+  <br>
+  👋 Hi, I’m Lucas I am 
+  🧑‍💻 I love C  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuEklund&label=Profile%20views&color=0e75b6&style=flat" alt="LuEklund" />
+</details>
 
-###
+
+---
 
 <img align="left" height="200" src="https://media4.giphy.com/media/g88xUM1rTwjfLhoRYP/giphy.gif?cid=ecf05e4741yhc7dynwwayu7p3dl7w9uffyb4nbt714vpzqd3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
-<div align="right">
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-    </br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  </div>
-  
-  ###
-  
-  <div >
+<div align="center">
+  <a href="https://vulkan.lunarg.com/sdk/home" target="_blank">
+    <img src="https://vulkan.lunarg.com/img/vulkan/vulkan-red.svg" alt="Vulkan Logo" width="150" />
+  </a>
+  <a href="https://www.khronos.org/openxr/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenXR_logo.svg" alt="OpenXR Logo" width="150" />
+  </a>
+</div>
+
+
+
+---
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LuEklund&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=15&custom_title=LuEklund's%20GitHub%20Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuEklund&layout=compact&theme=dracula&hide_border=true&border_radius=15" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+  <div align="center">
     <a href="https://lueklund.github.io/" target="_blank" rel="noopener noreferrer">
       <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoColor=white" height="35"/>
     </a>
   </div>
-</div>
 
-###
+<div align="center">
+  <strong>🛠 Languages & Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,zig,vim,arch,linux,bash,git,vscode" alt="Languages and Tools" />
+</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LuEklund/LuEklund/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LuEklund/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-
----
-###  About Me :
-
-I do stuff
-
-
----
-###
-
-</div>
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=LuEklund&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
 
