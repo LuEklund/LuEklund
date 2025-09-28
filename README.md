@@ -6,14 +6,14 @@
   <summary>📖 More about me</summary>
   <br>
   👋 Hi, I’m Lucas I am 
-  🧑‍💻 I love C  
+  🧑‍💻 I love C/Zig  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuEklund&label=Profile%20views&color=0e75b6&style=flat" alt="LuEklund" />
 </details>
 
 
 ---
 
-<img align="left" height="200" src="https://media4.giphy.com/media/g88xUM1rTwjfLhoRYP/giphy.gif?cid=ecf05e4741yhc7dynwwayu7p3dl7w9uffyb4nbt714vpzqd3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<!-- <img align="left" height="200" src="https://media4.giphy.com/media/g88xUM1rTwjfLhoRYP/giphy.gif?cid=ecf05e4741yhc7dynwwayu7p3dl7w9uffyb4nbt714vpzqd3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> -->
 
 <div align="center">
   <a href="https://vulkan.lunarg.com/sdk/home" target="_blank">
